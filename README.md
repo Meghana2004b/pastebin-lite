@@ -1,5 +1,5 @@
 A simple Pastebin-like web application that allows users to create, store, and share text content via a unique URL.
-This project was built as part of the Aganitha Full Stack Developer take-home exercise (2026).
+
 
 Features
 Create a paste with text content
